@@ -13,7 +13,7 @@
 
 - 💬 Ask me about Web dev, Robot, and any tech related questions!
 
-- 📫 How to reach me **eericli2000@gmil.com**
+- 📫 How to reach me **eericli2000@gmail.com**
 
 <p align="left">
 </p>
