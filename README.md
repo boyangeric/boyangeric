@@ -1,17 +1,17 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
-<h1 align="center">Hi 👋, I'm Eric</h1>
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" width="100%" height="350">
+<h1 align="center">Hi 👋, I'm Eric Li</h1>
 <h3 align="center">Master of Information Technology student at UNSW with a Bachelor of Mechatronic Engineering background. I love solving problem with code!!</h3>
 
 
-- 🔭 I’m currently working on **a full stack web dev project**
+- 🔭 I’m currently working on a full stack web dev project.
 
-- 🌱 I’m currently learning **Shell script, Graph data analytics and Blockchain**
+- 🌱 I’m currently learning Shell script, Graph data analytics and Blockchain
 
-- 👯 I’m interested in **web development and coding algorithms**
+- 👯 I’m interested in web development and coding algorithms
 
-- 🤝 I’m looking for help with **finding a software engineering internship or graduate job**
+- 🤝 I’m looking for help with finding a software engineering internship or graduate job
 
-- 💬 Ask me about **Web dev, Robot, and any tech related questions!**
+- 💬 Ask me about Web dev, Robot, and any tech related questions!
 
 - 📫 How to reach me **eericli2000@gmil.com**
 
