@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" width="100%" height="350">
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" width="100%" height="330">
 <h1 align="center">Hi 👋, I'm Eric Li</h1>
 <h3 align="center">Master of Information Technology student at UNSW with a Bachelor of Mechatronic Engineering background. I love solving problem with code!!</h3>
 
